@@ -74,7 +74,6 @@
         [sAmbiguousWidth addCharactersInRange:NSMakeRange(0x2460, 0x24e9 - 0x2460 + 1)];
         [sAmbiguousWidth addCharactersInRange:NSMakeRange(0x24eb, 0x254b - 0x24eb + 1)];
         [sAmbiguousWidth addCharactersInRange:NSMakeRange(0x2550, 0x2573 - 0x2550 + 1)];
-        [sAmbiguousWidth addCharactersInRange:NSMakeRange(0x2580, 0x258f - 0x2580 + 1)];
         [sAmbiguousWidth addCharactersInRange:NSMakeRange(0x26c4, 0x26cd - 0x26c4 + 1)];
         [sAmbiguousWidth addCharactersInRange:NSMakeRange(0x26cf, 0x26e1 - 0x26cf + 1)];
         [sAmbiguousWidth addCharactersInRange:NSMakeRange(0x26e8, 0x26ff - 0x26e8 + 1)];
